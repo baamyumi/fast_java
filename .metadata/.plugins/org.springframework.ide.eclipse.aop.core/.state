@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring_5_1_ex1_springex"/>
+<aop-project name="spring_4_1_ex1_springex"/>
+<aop-project name="spring_3_1_ex1_springex"/>
+<aop-project name="spring_3_1_ex2_springex"/>
+<aop-project name="spring_5_2_ex1_springex"/>
+</aop-reference-model>

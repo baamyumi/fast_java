@@ -1,0 +1,4 @@
+4월 07, 2022 11:05:18 오전 ch11.MyLogger warning
+WARNING: name must not be null
+4월 07, 2022 11:05:18 오전 ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
